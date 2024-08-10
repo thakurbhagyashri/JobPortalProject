@@ -1,0 +1,57 @@
+/* Header.css */
+
+/* Header container */
+.header-container {
+  background-color: darkseagreen;
+  color: white;
+  padding: 10px;
+  font-family: cursive;
+  
+}
+
+/* Header content */
+.header-content {
+  display: flex;
+  align-items: center;
+}
+
+/* Logo */
+.logo {
+  height: 60px;
+  width: auto;
+  margin-right: 10px;
+}
+
+/* Brand link */
+.brand {
+  font-weight: bold;
+  text-decoration: none;
+  color: inherit;
+  margin-right: 20px;
+}
+
+/* Navbar toggler (for mobile) */
+.navbar-toggler {
+  display: none;
+}
+
+/* Navbar items container */
+.navbar-items {
+  list-style-type: none;
+  display: flex;
+  align-items: center; /* Align items vertically */
+  margin: 0;
+  padding: 0;
+}
+
+/* Navbar item */
+.nav-item {
+  margin-right: 15px;
+}
+
+/* Navbar link */
+.nav-link {
+  text-decoration: none;
+  color: inherit;
+  font-weight: bold;
+}

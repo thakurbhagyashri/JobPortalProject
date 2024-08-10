@@ -1,0 +1,32 @@
+/* NormalHeader.css */
+
+/* Navbar */
+.navbar {
+    list-style-type: none;
+    display: flex;
+    align-items: center; /* Align items vertically */
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Navbar item */
+  .nav-item {
+    margin-right: 15px;
+  }
+  
+  /* Navbar link */
+  .nav-link {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  /* Text color */
+  .text-color {
+    color: #000; /* Set your desired text color */
+  }
+  
+  /* Contact Us */
+  .contact-us {
+    margin-right: 20px; /* Adjust the margin-right value as needed */
+  }
+  

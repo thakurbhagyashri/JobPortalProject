@@ -1,0 +1,20 @@
+/* Admin Header Navigation */
+.admin-nav {
+    display: flex;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .admin-item {
+    margin-right: 1rem;
+  }
+  
+  .admin-link {
+    color: var(--text-color); /* Define your desired text color */
+    text-decoration: none;
+  }
+  
+  .admin-link:hover {
+    text-decoration: underline;
+  }
+  
